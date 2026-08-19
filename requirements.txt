@@ -3,11 +3,10 @@ uvicorn
 langserve
 langchain
 langchain-core
-langchain-google-genai
 langchain-community
 langchain-text-splitters
+langchain-google-genai
+python-dotenv
 pypdf
 faiss-cpu
-python-dotenv
 python-multipart
-sse-starlette
