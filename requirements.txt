@@ -10,3 +10,4 @@ python-dotenv
 pypdf
 faiss-cpu
 python-multipart
+sse-starlette
